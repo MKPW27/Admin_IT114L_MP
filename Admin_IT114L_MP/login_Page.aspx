@@ -47,7 +47,7 @@
                 <p class="text-slate-500 mt-2 font-medium">Pet Vaccination Admin Panel</p>
                 <p class="text-xs text-slate-400 uppercase tracking-widest mt-1">Barangay San Isidro, Cabuyao City</p>
             </section>
-
+            <%-- asd --%>
             <!-- Login Form -->
             <section class="p-8">
                 <asp:Panel runat="server">
